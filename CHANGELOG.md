@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/Rechip/source_location/compare/v0.1.0...v0.1.1) (2022-01-15)
+
+
+### Features
+
+* Add header with a hpp extension ([37382d4](https://github.com/Rechip/source_location/commit/37382d4dc17781a0b82277e0461286e1972204ea))
+
 ## 0.1.0 (2022-01-15)
 
 
