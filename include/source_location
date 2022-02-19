@@ -25,6 +25,10 @@
 #define __SOURCE_LOCATION__
 #pragma once
 
+#ifdef __GNUC__
+#	pragma GCC system_header
+#endif
+
 #if defined __has_include_next
 #	if __has_include_next(<source_location>)
 #		include_next <source_location>
